@@ -57,7 +57,7 @@ I specialize in building scalable AI solutions, optimizing machine learning pipe
 - Achieved 84% accuracy in device prediction using CatBoost and LightGBM.
 
 ---
-
+<!--
 ## 📚 Research Experience
 
 ### MedAn: Investigating Live Medical Data Privacy Laws  
@@ -65,9 +65,9 @@ Utilized advanced Retrieval-Augmented Generation (RAG) and fine-tuned Llama/Mist
 
 ### Medical Visual Question Answering  
 Developed Vision-Language Models (VLMs) for oncology datasets with distributed training on NVIDIA H100s and DGX A100s. Achieved 86% closed VQA accuracy.
-
+-->
 ---
-
+<!--
 ## 📂 Featured Projects
 
 | Project Name         | Description                                                                                  | Links               |
@@ -77,7 +77,7 @@ Developed Vision-Language Models (VLMs) for oncology datasets with distributed t
 | **FeedFlink**        | Real-time news recommendation system built on Kafka and Spark.                               | [Paper](#) \| [Code](#) |
 | **DeepGen**          | From-scratch implementation of Generative AI models like Transformers and Diffusion Models.  | [Project Link](#)    |
 | **MedZoom**          | GAN-based super-resolution network for medical imaging.                                      | [Project Link](#)    |
-
+-->
 ---
 
 ## 🌱 Education
