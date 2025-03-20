@@ -1,4 +1,4 @@
-# FNU Abhilash
+# Fnu Abhilash
 
 **Data Scientist | Machine Learning Engineer | Generative AI Specialist**
 
