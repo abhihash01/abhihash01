@@ -8,9 +8,8 @@ Welcome to my GitHub profile! I am a passionate Data Scientist and Machine Learn
 - 🌟 **Location:** New York  
 - 📧 **Email:** abhihash01@gmail.com  
 - 🔗 **Portfolio:** [abhihash01.github.io](https://abhihash01.github.io)  
-<!--- 💼 **LinkedIn:** [linkedin.com/in/abhilash29998](https://linkedin.com/in/abhilash29998) --> 
 - 🐙 **GitHub:** [github.com/abhihash01](https://github.com/abhihash01)  
-
+<!-- - 💼 **LinkedIn:** [linkedin.com/in/abhilash29998](https://linkedin.com/in/abhilash29998) -->
 I specialize in building scalable AI solutions, optimizing machine learning pipelines, and deploying end-to-end ML systems in production environments.
 
 ---
