@@ -2,13 +2,13 @@
 
 **Data Scientist | Machine Learning Engineer | Generative AI Specialist**
 
-Welcome to my GitHub profile! I am a passionate Data Scientist and Machine Learning Engineere, currently pursuing a Master’s in Data Science at Stony Brook University. My expertise lies in **Deep Learning**, **Generative AI**, **Natural Language Processing (NLP)**, **Computer Vision (CV)**, and **Recommendation Systems**.
+Welcome to my GitHub profile! I am a passionate Data Scientist and Machine Learning Engineer, currently pursuing a Master’s in Data Science at Stony Brook University. My expertise lies in **Deep Learning**, **Generative AI**, **Natural Language Processing (NLP)**, **Computer Vision (CV)**, and **Recommendation Systems**.
 
 ## 🚀 About Me
 - 🌟 **Location:** New York  
 - 📧 **Email:** abhihash01@gmail.com  
 - 🔗 **Portfolio:** [abhihash01.github.io](https://abhihash01.github.io)  
-- 💼 **LinkedIn:** [linkedin.com/in/abhilash29998](https://linkedin.com/in/abhilash29998)  
+<!--- 💼 **LinkedIn:** [linkedin.com/in/abhilash29998](https://linkedin.com/in/abhilash29998) --> 
 - 🐙 **GitHub:** [github.com/abhihash01](https://github.com/abhihash01)  
 
 I specialize in building scalable AI solutions, optimizing machine learning pipelines, and deploying end-to-end ML systems in production environments.
@@ -38,7 +38,7 @@ I specialize in building scalable AI solutions, optimizing machine learning pipe
 
 ### Cloud Platforms
 - AWS (SageMaker, Lambda), GCP (Vertex AI), Azure (ML Studio), Hugging Face
-
+<!--
 ---
 
 ## 💼 Professional Experience
@@ -55,7 +55,7 @@ I specialize in building scalable AI solutions, optimizing machine learning pipe
 ### Samsung Research – Data Intelligence Trainee 
 - Developed a mobile app recommender system using PySpark + TensorFlow with Deep Autoencoders.
 - Achieved 84% accuracy in device prediction using CatBoost and LightGBM.
-
+-->
 <!--
 ---
 
@@ -83,7 +83,7 @@ Developed Vision-Language Models (VLMs) for oncology datasets with distributed t
 ---
 -->
 
-
+<!--
 ## 🌱 Education
 
 ### Stony Brook University – MS in Data Science 
@@ -93,7 +93,7 @@ Courses: Statistical Learning & Computing | Big Data Systems | Reinforcement Lea
 ### Manipal Institute of Technology – B.Tech in Computer Science 
 **GPA:** 8.1/10  
 Focus Areas: Intelligent Systems | AI & ML | Computer Vision  
-
+-->
 ---
 
 ## 📈 GitHub Stats
